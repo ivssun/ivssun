@@ -18,8 +18,8 @@ Ingeniería Informática @ Universidad Veracruzana. Me enfoco en el análisis de
 
 ## Herramientas
 
-**Datos:** Python (pandas, scikit-learn, geopandas), SQL, Power BI, Excel, QGIS, Streamlit
-**Desarrollo:** Java, Kotlin, React, Spring Boot, Git
+- **Datos:** Python (pandas, scikit-learn, geopandas), SQL, Power BI, Excel, QGIS, Streamlit
+- **Desarrollo:** Java, Kotlin, React, Spring Boot, Git
 
 ## Contacto
 
